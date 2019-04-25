@@ -1,0 +1,61 @@
+set_io clk B7
+
+set_io sig[0] A2
+
+set_io sig[1] A5
+
+set_io sig[2] A9
+
+set_io sig[3] A10
+
+set_io sig[4] A11
+
+set_io sig[5] B3
+
+set_io sig[6] B4
+
+set_io sig[7] B5
+
+set_io sig[8] B6
+
+set_io reset B10
+
+set_io filter_out[0] L7
+
+set_io filter_out[1] M8
+
+set_io filter_out[2] N9
+
+set_io filter_out[3] P9
+
+set_io filter_out[4] R10
+
+set_io filter_out[5] T9
+
+set_io filter_out[6] T10
+
+set_io filter_out[7] T11
+
+set_io filter_out[8] T13
+
+set_io filter_out[9] T14
+
+set_io filter_out[10] T15
+
+set_io filter_out[11] L9
+
+set_io filter_out[12] G5
+
+set_io filter_out[13] R14
+
+set_io filter_out[14] N7
+
+set_io filter_out[15] N6
+
+set_io filter_out[16] C3
+
+set_io filter_out[17] B8
+
+set_io filter_out[18] D8
+
+set_io out_sig B9
